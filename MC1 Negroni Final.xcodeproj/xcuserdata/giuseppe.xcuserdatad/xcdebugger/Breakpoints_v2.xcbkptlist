@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C3A1E6CD-E477-4704-BACE-1466939B87B6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D79A38E-60E1-4CBF-B201-8EC03ECF7653"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MC1 Negroni Final/LibraryTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "LibraryTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3D79A38E-60E1-4CBF-B201-8EC03ECF7653 - 7c684f47bc4c78a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MC1_Negroni_Final.LibraryTableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; MC1_Negroni_Final.LibraryTableViewCell"
+                  moduleName = "MC1 Negroni Final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giuseppe/Dropbox%20(iOSDA-IT)/GitLab/MC1%20Negroni/mc1-negroni-final/MC1%20Negroni%20Final/LibraryTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "3D79A38E-60E1-4CBF-B201-8EC03ECF7653 - b9c1954317772213"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MC1_Negroni_Final.LibraryTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; MC1_Negroni_Final.LibraryTableViewCell"
+                  moduleName = "MC1 Negroni Final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giuseppe/Dropbox%20(iOSDA-IT)/GitLab/MC1%20Negroni/mc1-negroni-final/MC1%20Negroni%20Final/LibraryTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "3D79A38E-60E1-4CBF-B201-8EC03ECF7653 - f4d08162305b9a4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MC1_Negroni_Final.LibraryTableViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MC1_Negroni_Final.LibraryTableViewCell&gt;"
+                  moduleName = "MC1 Negroni Final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giuseppe/Dropbox%20(iOSDA-IT)/GitLab/MC1%20Negroni/mc1-negroni-final/MC1%20Negroni%20Final/LibraryTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "3D79A38E-60E1-4CBF-B201-8EC03ECF7653 - acab8225597c14d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MC1_Negroni_Final.LibraryTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MC1_Negroni_Final.LibraryTableViewCell&gt;"
+                  moduleName = "MC1 Negroni Final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giuseppe/Dropbox%20(iOSDA-IT)/GitLab/MC1%20Negroni/mc1-negroni-final/MC1%20Negroni%20Final/LibraryTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "3D79A38E-60E1-4CBF-B201-8EC03ECF7653 - 1b4cf5fb2b4c46f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MC1_Negroni_Final.LibraryTableViewCell.__deallocating_deinit"
+                  moduleName = "MC1 Negroni Final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giuseppe/Dropbox%20(iOSDA-IT)/GitLab/MC1%20Negroni/mc1-negroni-final/MC1%20Negroni%20Final/LibraryTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
